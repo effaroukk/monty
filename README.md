@@ -1,6 +1,6 @@
 # Monty created by Umar Farouk ABDULAI
 
-#This is an ALX 0x19. C - Stacks, Queues - LIFO, FIFO project
+##This is an ALX 0x19. C - Stacks, Queues - LIFO, FIFO project
 
 Implementation of the push and pall opcodes.
 
