@@ -46,7 +46,9 @@ int main(int argc, char *argv[]);
 void free_nodes(void);
 stack_t *new_node(int n);
 void add_to_queue(stack_t **new_node, __attribute__((unused))unsigned int ln);
-
+void mont_print_stack(stack_t **mont_stack, unsigned int mont_line_number);
+void monty_pop_top(stack_t **monty_stack, unsigned int monty_line_number);
+void monty_print_top(stack_t **monty_stack, unsigned int monty_line_number);
 
 
 
